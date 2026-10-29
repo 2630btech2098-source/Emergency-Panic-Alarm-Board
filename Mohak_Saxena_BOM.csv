@@ -1,0 +1,6 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"BZ1","CEM-1205-IC (5V ACTIVE)","https://www.sameskydevices.com/product/resource/cem-1205-ic.pdf","Buzzer_Beeper:Buzzer_12x9.5RM7.6","1",""
+"D1","RED 5mm","","LED_THT:LED_D5.0mm","1",""
+"J1","5V DC INPUT","","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal","1",""
+"R1","330 Ohm","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","1",""
+"SW1","PANIC","","Button_Switch_THT:SW_PUSH_6mm","1",""
